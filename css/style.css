@@ -1,0 +1,5 @@
+/*------ Clear ---------*/
+.clear:after {content:"";display:block;height:0;clear:both;visibility:hidden;}
+.clear {display:inline-block;}
+.clear {display:block;}
+* html .clear {height:1px;}
